@@ -4,6 +4,7 @@ Flux is the agentic commerce infrastructure layer that makes online retail machi
 
 ## Repository Layout
 - `docs/product-vision.md` – comprehensive product vision and roadmap narrative.
+- `docs/flow-diagram.md` – quick visual walkthrough of the Flux experience flow.
 - `pitch/investor_pitch.md` – concise pitch copy ready for a secret GitHub Gist.
 - `.gitignore` – standard git hygiene for the project workspace (add local tooling as needed).
 
@@ -44,4 +45,3 @@ This command returns the URL of the secret gist. Share that URL only with truste
 - Build out ACP (Agentic Commerce Protocol) reference implementations.
 - Prototype the Agentic Search API against sample merchant feeds.
 - Tighten feedback loop with early agent platform partners.
-
