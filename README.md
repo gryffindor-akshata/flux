@@ -5,6 +5,7 @@ Flux is the agentic commerce infrastructure layer that makes online retail machi
 ## Repository Layout
 - `docs/product-vision.md` – comprehensive product vision and roadmap narrative.
 - `docs/flow-diagram.md` – quick visual walkthrough of the Flux experience flow.
+- `docs/discovery-architecture.md` – top-down view of the Flux discovery architecture.
 - `pitch/investor_pitch.md` – concise pitch copy ready for a secret GitHub Gist.
 - `.gitignore` – standard git hygiene for the project workspace (add local tooling as needed).
 
