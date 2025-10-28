@@ -1,0 +1,20 @@
+{
+  "name": "flux-mvp",
+  "version": "1.0.0",
+  "description": "Payment rails for AI agents with transparent approval flows",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": ["ai", "payments", "agents", "fintech"],
+  "author": "Flux Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+
